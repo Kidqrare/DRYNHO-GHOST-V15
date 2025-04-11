@@ -1,1 +1,0 @@
-# DRYNHO-GHOST-V15
