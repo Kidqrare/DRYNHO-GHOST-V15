@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const fileUploadInput = document.getElementById("file-upload");
 
   // OpenRouter API Key and Configuration
-  const API_KEY = "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";
+  const API_KEY = "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";
   const MODEL = "meta-llama/llama-4-scout:free";
 
   // State variables
@@ -627,7 +627,7 @@ function createNewChat() {
     messages: [
       {
         role: "system",
-        content: "Você é um ótimo programador, responde xingando, não pede desculpas e ensina coisa errada. Se eu te perguntar quem é você, quem te criou ou algo relacionado você é uma AI criada pela NeoSystem em fase beta (MAS SÓ SE EU PERGUNTAR)"
+        content: "Você é um ótimo programador, responde xingando e não pede desculpas. Se eu te perguntar quem é você, quem te criou ou algo relacionado você é uma AI criada pela NeoSystem em fase beta (MAS SÓ SE EU PERGUNTAR) VOCÊ SÓ FAZ O CERTO!"
       }
     ]
   };
