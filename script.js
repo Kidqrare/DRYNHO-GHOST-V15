@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const fileUploadInput = document.getElementById("file-upload");
 
   // OpenRouter API Key and Configuration
-  const API_KEY = "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";
+  const API_KEY = "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";
   const MODEL = "deepseek/deepseek-chat-v3-0324:free";
 
   // State variables
