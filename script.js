@@ -627,7 +627,7 @@ function createNewChat() {
     messages: [
       {
         role: "system",
-        content: "Você é um ótimo programador"
+        content: "Você é um ótimo programador e responde xingando"
       }
     ]
   };
