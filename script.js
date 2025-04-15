@@ -622,7 +622,7 @@ function createNewChat() {
 
   chatHistory[chatId] = {
     id: chatId,
-    title: "Nova Conversa",
+    title: "Chat",
     timestamp: Date.now(),
     messages: [
       {
@@ -633,7 +633,7 @@ function createNewChat() {
   };
 
     currentChatId = chatId;
-    currentChatTitle.textContent = "Nova Conversa";
+    currentChatTitle.textContent = "Chat";
 
     messagesContainer.innerHTML = `
             <div class="intro-message">
