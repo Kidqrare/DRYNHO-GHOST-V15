@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const fileUploadInput = document.getElementById("file-upload");
 
   // OpenRouter API Key and Configuration
-  const API_KEY = "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";
+  const API_KEY = "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";
   const MODEL = "meta-llama/llama-4-scout:free";
 
   // State variables
