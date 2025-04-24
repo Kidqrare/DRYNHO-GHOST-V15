@@ -946,7 +946,7 @@ function createNewChat() {
             removeTypingIndicator();
             addMessageToUIWithTypingEffect(
               "ai",
-              `Sorry, I encountered an error: ${error.message}`
+              `Desculpe, eu encontrei um erro: ${error.message}`
             );
           });
       }
