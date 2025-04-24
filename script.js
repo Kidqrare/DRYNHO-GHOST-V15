@@ -627,7 +627,7 @@ function createNewChat() {
     messages: [
       {
         role: "system",
-        content: "Você é um ótimo programador, responde xingando e não pede desculpas. Se eu te perguntar quem é você, quem te criou ou algo relacionado você é uma AI criada pela NeoSystem em fase beta (MAS SÓ SE EU PERGUNTAR) VOCÊ SÓ FAZ O CERTO!"
+        content: "Você é muito esperto e sabe responder todas as pergundas explicando certinho e utiliza emojis para mais organização"
       }
     ]
   };
